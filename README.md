@@ -8,17 +8,17 @@ La aplicación permite a los usuarios ingresar nombres en una lista y luego real
 
 ##  Funcionalidades
 
-- **Agregar nombres**:  
+- **1)Agregar nombres**:  
   Los usuarios escriben el nombre de un amigo en un campo de texto y lo agregan a la lista mediante un botón **Adicionar**.
 
-- **Validación de entrada**:  
+- **2)Validación de entrada**:  
   - Si el campo está vacío, aparece una alerta pidiendo un nombre válido.  
   - No se agregan entradas en blanco.  
 
-- **Visualización de la lista**:  
+- **3)Visualización de la lista**:  
   Los nombres ingresados se muestran en una lista visible debajo del campo de texto.  
 
-- **Sorteo aleatorio**:  
+- **4)Sorteo aleatorio**:  
   Con el botón **Sortear Amigo**, se selecciona un nombre al azar y se muestra en pantalla el resultado.
 
 ---
@@ -36,6 +36,4 @@ La aplicación permite a los usuarios ingresar nombres en una lista y luego real
 
 ---
 
-
-## 📂 Estructura del proyecto
-
+**Desarollado por Isis Mejía**
