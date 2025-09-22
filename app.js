@@ -25,7 +25,7 @@ function mostrarAmigos() {
     let lista = document.getElementById("listaAmigos");
     lista.innerHTML = ""; // limpiar antes de mostrar
 
-    // Recorrer el array y crear <li> para cada nombre
+    
     for (let i = 0; i < amigos.length; i++) {
         let item = document.createElement("li");
         item.textContent = amigos[i];
@@ -36,7 +36,7 @@ function mostrarAmigos() {
 // Función para sortear un amigo secreto
 function sortearAmigo() {
     if (amigos.length === 0) {
-        alert("⚠️ La lista está vacía, agrega nombres primero.");
+        alert("La lista está vacía, agrega nombres primero.");
         return;
     }
 
