@@ -27,12 +27,16 @@ La aplicación permite a los usuarios ingresar nombres en una lista y luego real
 
 ### Pantalla inicial
 
+<img width="1850" height="1014" alt="Image" src="https://github.com/user-attachments/assets/692de96a-d3b6-4372-8382-c6d10d10c769" />
+
+
 
 ### Lista de nombres agregados
 
+<img width="1846" height="1003" alt="Image" src="https://github.com/user-attachments/assets/71b5e63b-5a2f-4475-a1b9-d54280c79ac3" />
 
 ### Resultado del sorteo
-
+<img width="1832" height="1005" alt="Image" src="https://github.com/user-attachments/assets/e7d6e126-ca9b-4ee1-a170-454d282d98ce" />
 
 ---
 
